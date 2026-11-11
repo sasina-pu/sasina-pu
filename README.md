@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sasina Punta.
 
 ## คติประจำใจ
-Mistakes are proof that you are trying, not that you are failing.
+Mistakes are proof that you are trying, not that you are failin.
 
 <div align="center">
 
