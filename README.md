@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sasina Punta.
 
+## คติประจำใจ
+Mistakes are proof that you are trying, not that you are failing.
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Student;Front-End+%2F+Back-End;Fullstack+Developer)
